@@ -1,3 +1,9 @@
+Оригинальный репозиторий Infinispan  
+https://github.com/gridgentoo/infinispan   
+
+Архитектура и Реверс инжинириг Infinispan     
+https://drive.google.com/drive/u/0/folders/1jFfoHFBBJ6syPVaaxSHpBBDCF2D-yD6a  
+
 [![Infinispan](https://design.jboss.org/infinispan/logo/final/PNG/infinispan_logo_rgb_lightbluewhite_darkblue_600px.png)](https://infinispan.org/)
 
 [![Version](https://img.shields.io/maven-central/v/org.infinispan/infinispan-core?logo=apache-maven&style=for-the-badge)](https://search.maven.org/artifact/org.infinispan/infinispan-core)
