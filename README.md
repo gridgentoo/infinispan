@@ -1,8 +1,8 @@
-Оригинальный репозиторий Infinispan  
-https://github.com/gridgentoo/infinispan   
-
-Архитектура и Реверс инжинириг Infinispan     
+Реверс инжиниринг архитектуры Infinispan     
 https://drive.google.com/drive/u/0/folders/1jFfoHFBBJ6syPVaaxSHpBBDCF2D-yD6a  
+
+Оригинальный репозиторий Infinispan  
+https://github.com/gridgentoo/infinispan 
 
 [![Infinispan](https://design.jboss.org/infinispan/logo/final/PNG/infinispan_logo_rgb_lightbluewhite_darkblue_600px.png)](https://infinispan.org/)
 
